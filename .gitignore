@@ -1,0 +1,22 @@
+# Build dan hasil kompilasi
+/target/
+*.class
+*.log
+
+# Database pribadi (jangan pernah commit data pengguna)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# IDE / sistem operasi
+.DS_Store
+.idea/
+.vscode/settings.json
+*.iml
+
+# Paket yang dihasilkan
+*.dmg
+*.pkg
+*.app/
