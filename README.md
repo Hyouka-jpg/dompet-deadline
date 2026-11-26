@@ -6,6 +6,20 @@ Dompet Deadline adalah aplikasi desktop berbasis Java untuk membantu mahasiswa m
 
 Proyek ini dikembangkan untuk **Tugas Besar Praktikum Pemrograman Berorientasi Objek** menggunakan **Java Swing, JDBC, dan SQLite**.
 
+## Identitas Pengembang
+
+| Keterangan | Informasi |
+|---|---|
+| Nama | Ahmad Damanhuri |
+| NIM | 250810701100046 |
+| Program Studi | Informatika |
+| Fakultas | Matematika dan Ilmu Pengetahuan Alam |
+| Universitas | Universitas Syiah Kuala |
+| Angkatan | 2025 |
+| Mata Kuliah | Praktikum Pemrograman Berorientasi Objek |
+| Kelas | Praktikum Pemrograman Berorientasi Objek A |
+| GitHub | [Hyouka-jpg](https://github.com/Hyouka-jpg) |
+
 ## Tampilan Aplikasi
 
 Screenshot berikut berasal dari aplikasi yang dijalankan pada macOS dengan data contoh.
