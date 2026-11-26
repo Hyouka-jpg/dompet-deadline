@@ -6,7 +6,7 @@ Dompet Deadline adalah aplikasi desktop berbasis Java untuk membantu mahasiswa m
 
 Proyek ini dikembangkan untuk **Tugas Besar Praktikum Pemrograman Berorientasi Objek** menggunakan **Java Swing, JDBC, dan SQLite**.
 
-## Identitas Pengembang
+## Identitas
 
 | Keterangan | Informasi |
 |---|---|
